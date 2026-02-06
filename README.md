@@ -17,3 +17,30 @@ This project analyzes customer churn behavior in a telecom company and builds a 
 - GitHub
 
 ## 📂 Project Structure
+customer-churn-analysis/
+├── data/
+├── notebooks/
+├── sql/
+├── results/
+└── README.md
+
+## 📈 Key Insights
+- Month-to-month customers have highest churn (~43%)
+- Long-term contracts reduce churn drastically
+- Higher monthly charges increase churn risk
+- New customers churn more frequently
+
+## 🤖 Machine Learning
+- Logistic Regression model
+- ~80% prediction accuracy
+- Feature scaling and encoding used
+
+## 💼 Business Impact
+- Target high-risk customers early
+- Encourage long-term contracts
+- Improve high-charge service plans
+- Offer retention discounts
+
+## 📌 Conclusion
+This project demonstrates end-to-end data analysis, machine learning modeling, and SQL insights to solve a real-world churn problem.
+
